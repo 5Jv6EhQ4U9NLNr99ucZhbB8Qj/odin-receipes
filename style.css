@@ -1,0 +1,10 @@
+h1 {
+    font-size: 24px;
+}
+
+/* Changes background colour to black and text colour to white */
+
+.inverse-contrast {
+    background-color: black;
+    color: white;
+}
